@@ -21,7 +21,6 @@ Todos los objetos están identificados con etiquetas.
 La escena cuenta con dos fuentes de luz provenientes del cielo.
 
 **Capturas:**
-![Captura](https://raw.githubusercontent.com/alu0101040882/PracticasInterfacesInteligentes/master/Practica1/Screenshots/Captura.PNG))
-
+![Captura](https://raw.githubusercontent.com/alu0101040882/PracticasInterfacesInteligentes/master/Practica1/Screenshots/Captura.PNG)
 ![Captura2](https://raw.githubusercontent.com/alu0101040882/PracticasInterfacesInteligentes/master/Practica1/Screenshots/Captura2.PNG)
 ![Captura3](https://raw.githubusercontent.com/alu0101040882/PracticasInterfacesInteligentes/master/Practica1/Screenshots/Captura3.PNG)
