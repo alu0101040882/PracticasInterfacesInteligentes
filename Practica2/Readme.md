@@ -3,7 +3,7 @@
 
 **Realización:**
 
-Se ha añadido un cubo y un terreno a la escena. En el cubo se ha aplicado el script [characterController](scripts/CharacterController.cs) para controlar el movimiento del jugador así como su rotación.
+Se ha añadido un cubo y un terreno a la escena. En el cubo se ha aplicado el script [characterController](Scripts/CharacterController.cs) para controlar el movimiento del jugador así como su rotación.
 Tanto la velocidad de rotación como la velocidad de movimiento del objeto se han declarado como atributos públicos que facilmente pueden ser modificados desde el inspector de unity.
 
 **GiF:**
