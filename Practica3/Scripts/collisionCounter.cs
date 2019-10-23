@@ -15,9 +15,7 @@ public class collisionCounter : MonoBehaviour
     {
         if(collision.gameObject.tag == "Player" || collision.gameObject.tag == "Sphere")
         {
-            /*TextMesh t = (TextMesh)gameObject.GetComponent(typeof(TextMesh));
-            t.text = collisionCounter.ToString();*/
-
+ 
             collisionCount++;
             Debug.Log(collisionCount);
 
