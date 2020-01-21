@@ -8,5 +8,5 @@
 
 ## Ejecucion
 
-![Gif de prueba](GIF/Ejecuccion.gif)
+![Gif de prueba](GIF/Ejecucion.gif)
 
